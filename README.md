@@ -7,3 +7,5 @@ First, it allows clothing textures to be embedded directly into the skeleton's S
 Secondly, you don't need to care about the node hierarchy with clothing sprites. Now this is the responsibility of the Spine itself.
 
 Please note that the .effect file for the shader will be created automatically when the "Clothes" property of this module is changed.
+
+You can see [DEMO here](https://juanowen.github.io/cc3-spine-clothes/index.html)
